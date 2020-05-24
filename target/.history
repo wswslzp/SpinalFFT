@@ -1,0 +1,11 @@
+compile
+run
+compile
+runMain MyFFT
+console
+runMain MyFFT
+compile
+runMain HComplexMul
+compile
+runMain HComplexMul
+runMain MyFFT

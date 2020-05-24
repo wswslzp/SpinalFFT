@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ff9c81b-0d2b-4796-871f-6356eb7bd0dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cJ0BQSZd1GKHci6hsa2obRI4xv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../spinalhdl/1.4.1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MyFFT" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MyFFT" />
+      <module name="myfft_7139" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyFFT" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="myfft" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="myfft_7139 [file:/D:/lzp/NSOL/fft/myfft/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="myfft_7139-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3180462312210" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2376351453" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../sgen" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../nlos_system" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../cnn_accelerator/scala/CNNAcclerator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../spinalhdl/SpinalWorkshop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../spinalhdl/VexRiscv" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../spinalhdl/riscv_use" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ff9c81b-0d2b-4796-871f-6356eb7bd0dc" name="Default Changelist" comment="" />
+      <created>1590231252340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590231252340</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="273" key="FileChooserDialogImpl" timestamp="1590231341141">
+      <screen x="1920" y="-1" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="273" key="FileChooserDialogImpl/0.0.1920.1040/1920.-1.1920.1040@1920.-1.1920.1040" timestamp="1590231341141" />
+    <state x="2360" y="93" key="SettingsEditor" timestamp="1590231342953">
+      <screen x="1920" y="-1" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="93" key="SettingsEditor/0.0.1920.1040/1920.-1.1920.1040@1920.-1.1920.1040" timestamp="1590231342953" />
+  </component>
+</project>

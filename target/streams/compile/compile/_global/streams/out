@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m/mnt/d/lzp/NSOL/fft/myfft/src/main/scala/MyFFT.scala:17:18: inferred type arguments [Int] do not conform to method apply's type parameter bounds [T <: spinal.core.BitVector][0m
+[0m[[0m[31merror[0m] [0m[0m    data_reorder(Reverse(idx)) := dat[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/mnt/d/lzp/NSOL/fft/myfft/src/main/scala/MyFFT.scala:17:26: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Int[0m
+[0m[[0m[31merror[0m] [0m[0m required: T[0m
+[0m[[0m[31merror[0m] [0m[0m    data_reorder(Reverse(idx)) := dat[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
